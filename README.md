@@ -1,4 +1,4 @@
-# Deep Learning Challenge Neural Networks and Deep Learning
+# Deep Learning Challenge: Neural Networks and Deep Learning
 
 ## Objective
 The goal of this project is to develop a binary classifier capable of predicting the success of applicants seeking nonprofit funding from the Alphabet Soup foundation.
